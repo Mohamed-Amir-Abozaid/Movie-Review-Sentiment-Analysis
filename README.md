@@ -27,25 +27,45 @@ Dataset is located in:
 
 Sentiment_Classifier/
 │
+
 ├── data/
+
 │   └── IMDB_Dataset.csv
+
 │
+
 ├── notebooks/
+
 │   ├── 01_eda_and_cleaning.ipynb
+
 │   ├── 02_feature_engineering_and_training.ipynb
+
 │   └── 03_model_evaluation.ipynb
+
 │
+
 ├── models/
+
 │   ├── Sentiment_Classifier_v1/
+
 │   └── Sentiment_Classifier_v2/
+
 │
+
 ├── experiments/
+
 │   └── test_models.ipynb
+
 │
+
 ├── utils/
+
 │   └── preprocessing.py
+
 │
+
 │
+
 ├── README.md
 
 
